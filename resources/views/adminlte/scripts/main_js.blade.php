@@ -1,4 +1,4 @@
-@extends('master')
+@extends('../master')
 
 @push('scripts')
     <!-- jQuery -->
@@ -10,3 +10,4 @@
     <!-- AdminLTE for demo purposes -->
     <script src="{{ asset('/adminlte/dist/js/demo.js') }}"></script>
 @endpush
+
