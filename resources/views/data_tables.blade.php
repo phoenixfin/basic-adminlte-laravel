@@ -438,4 +438,6 @@
       </div>
       <!-- /.card-body -->
     </div>
+
+    @stack('data_tables_scripts')  
 @endsection

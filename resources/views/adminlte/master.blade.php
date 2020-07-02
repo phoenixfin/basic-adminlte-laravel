@@ -36,7 +36,7 @@
 </div>
 <!-- ./wrapper -->
 
-@stack('scripts')
+@stack('main_scripts')
 
 </body>
 </html>

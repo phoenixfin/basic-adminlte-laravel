@@ -1,6 +1,6 @@
 @extends('../master')
 
-@push('scripts')
+@push('main_scripts')
     <!-- jQuery -->
     <script src="{{ asset('/adminlte/plugins/jquery/jquery.min.js') }}"></script>
     <!-- Bootstrap 4 -->
